@@ -2,6 +2,10 @@
 [**Home**](/README.md) - [Part 1](/en/part1/README.md) - [Part 2](/en/part2/README.md) - [Part 3](/en/part3/README.md)
 ***
 
+**WORK IN PROGRESS - NOT YET IN PRODUCTION USE**
+
+***
+
 # Welcome to the Node-RED Starter Workshop
 
 This workshop will introduce you to Node-RED to enable you to rapidly create feature rich applications with minimal coding.
